@@ -8,4 +8,6 @@ I'm a Sun Devil from [Arizona State University](https://www.asu.edu/) 🌞🔱. 
 - **Pentesting:** Proactively testing systems to find vulnerabilities that could be exploited.
 - **Anticheats:** Ensuring a fair playing field in the digital gaming world.
 
+### Gist
+
 [GitHub Gist](https://gist.github.com/Desrucker)
