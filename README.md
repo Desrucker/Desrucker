@@ -4,6 +4,6 @@ I'm a Sun Devil from [Arizona State University](https://www.asu.edu/) 🌞🔱. 
 
 ## 💡 Interests
 
-- **Ethical Hacking:** Exploring systems, finding vulnerabilities, and patching them up before the bad guys find them.
+- **Ethical Hacking:** Exploring systems, finding vulnerabilities, and patching them up.
 - **Pentesting:** Proactively testing systems to find vulnerabilities that could be exploited.
-- **Anticheats:** Ensuring a fair playing field in the digital gaming world by preventing cheating mechanisms.
+- **Anticheats:** Ensuring a fair playing field in the digital gaming world.
