@@ -10,4 +10,4 @@ I'm a Sun Devil from [Arizona State University](https://www.asu.edu/) 🌞🔱. 
 
 # GitHub Gist
 
-[GGist](https://gist.github.com/Desrucker)
+[Gist](https://gist.github.com/Desrucker)
